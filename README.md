@@ -3,12 +3,13 @@ A CLI application to calculate the Tunisian Baccalaureate score.
 
 ## Usage
 <b>Note: You need to have JDK version 8 or heigher to run this app correctly.</b>
-</br> 
+</br>
+</br>
 => The project contains only one package which is org.nidhal; </br>
-=> The main method is on the Main Class, So just run: </br>
+=> The main method is on the Main Class, So just run:
 <ul>
-  <li>``javac Main.java`` to compile the app. Then: </li>
-  <li>``java Main.class`` to run it after getting the .class files;</li>
+  <li><code>javac Main.java</code> to compile the app. Then: </li>
+  <li><code>java Main.class</code> to run it after getting the .class files;</li>
 </ul>
 
 That's it :)
