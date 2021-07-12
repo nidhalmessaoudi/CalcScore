@@ -6,10 +6,10 @@ A CLI application to calculate the Tunisian Baccalaureate score.
 </br>
 </br>
 => The project contains only one package which is org.nidhal; </br>
-=> The main method is on the Main Class, So just run:
+=> The main method is on the Main Class. So, in <code>~/src/</code> dir, just run:
 <ul>
-  <li><code>javac Main.java</code> to compile the app. Then: </li>
-  <li><code>java Main.class</code> to run it after getting the .class files;</li>
+  <li><code>javac org/nidhal/*.java</code> to compile the app. Then: </li>
+  <li><code>java org.nidhal.Main</code> to run it;</li>
 </ul>
 
 That's it :)
